@@ -667,7 +667,7 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  body-parser: ^1.15.2
+  body-parser: ^1.19.0
   cors: ^2.8.1
   express: ^5.0.0-alpha.2
   mongodb: ^2.2.5
