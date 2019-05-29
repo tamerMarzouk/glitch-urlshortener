@@ -1,5 +1,5 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
-
+require a mongodb connection string in env variable MONGOLAB_URI
 
 ### User Stories
 
