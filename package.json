@@ -11,7 +11,7 @@
 		"cors": "^2.8.1",
 		"express": "^4.17.1",
 		"int-encoder": "^1.1.1",
-		"mongoose": "^5.5.11"
+		"mongoose": "^5.7.5"
 	},
 	"engines": {
 		"node": "4.4.5"
