@@ -9,7 +9,7 @@
 	"dependencies": {
 		"body-parser": "^1.19.0",
 		"cors": "^2.8.1",
-		"express": "^4.17.3",
+		"express": "^4.19.2",
 		"int-encoder": "^1.1.1",
 		"mongoose": "^5.13.20"
 	},
